@@ -21,6 +21,7 @@ Currently, I work as a **Technical and Business Project Coordinator at IPMagiX**
 * Lead daily stand-up meetings to track team progress, resolve impediments, and implement DevOps practices for workflow management.
 * Serve as the primary liaison for requirements gathering between clients, stakeholders, and technical teams.
 * Manage all project communications and documentation using Microsoft 365 tools to provide solutions that streamline operations for all parties.
+
 **Full Stack Developer Internship (.NET & React)** | AZM Squad
 *(Jul 2025 - Oct 2025)*
 * Successfully completed a comprehensive training roadmap.
